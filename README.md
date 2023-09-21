@@ -28,19 +28,10 @@ Estamos comprometidos con estos objetivos para promover el aprendizaje, la creat
 
 ¿Listo para sumergirte en la creación de proyectos emocionantes? Aquí hay algunos de nuestros proyectos más destacados:
 
-- [Sistema de Monitoreo Ambiental](https://github.com/PHYCOM-ESPOL/monitoreo-ambiental) 🌿🌡️
-- Controlador de Robot Móvil 🤖🏎️
-- [Estación Meteorológica IoT](https://github.com/PHYCOM-ESPOL/estacion-meteorologica-iot) 🌦️📊
+- [**Replica Walle**](https://github.com/PhycomEspol/Replica_Wall-e) 🌿🌡️
+- [**What If?**](https://github.com/PhycomEspol/What-If) ❓️🤔
+- [**Cajita Musical**](https://github.com/PhycomEspol/Cajita-Musical) 🎶🎹
 - [Brazo Robótico](https://github.com/PHYCOM-ESPOL/brazo-robotico) 🦾🤖
-
-## Eventos y Actividades 🎉
-
-¡La diversión nunca se detiene en PHYCOM! Participa en nuestros emocionantes eventos y actividades:
-
-- Talleres de electrónica y programación 🛠️💻
-- Hackatones de hardware 🧰🔧
-- Competencias de robótica 🏆🤖
-- Charlas y conferencias sobre tendencias en mecatrónica 🗣️💡
 
 ## ¡Conéctate con nosotros! 🌐🤝
 
