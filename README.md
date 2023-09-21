@@ -64,11 +64,11 @@ Estamos comprometidos con estos objetivos para promover el aprendizaje, la creat
   </a>
 
   <a href="https://tiktok.com/@phycom_espol" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="src/Botones-redes/7.png" width = 40px/>
+    <img src="src/Botones-redes/9.png" width = 40px/>
   </a>
 
-  <a href="phycom@espol.edu.ec" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="src/Botones-redes/8.png" width = 40px/>
+  <a href="https://linktr.ee/phycom" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/10.png" width = 40px/>
   </a>
 </div>
 
