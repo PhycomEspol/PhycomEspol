@@ -31,7 +31,7 @@ Estamos comprometidos con estos objetivos para promover el aprendizaje, la creat
 - [**Replica Walle**](https://github.com/PhycomEspol/Replica_Wall-e) 🌿🌡️
 - [**What If?**](https://github.com/PhycomEspol/What-If) ❓️🤔
 - [**Cajita Musical**](https://github.com/PhycomEspol/Cajita-Musical) 🎶🎹
-- [Brazo Robótico](https://github.com/PHYCOM-ESPOL/brazo-robotico) 🦾🤖
+- [**ManoClic**](https://github.com/PhycomEspol/ClicManos) 👀💻
 
 ## ¡Conéctate con nosotros! 🌐🤝
 
