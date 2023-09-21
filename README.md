@@ -38,35 +38,39 @@ Estamos comprometidos con estos objetivos para promover el aprendizaje, la creat
 
 Únete a nuestra comunidad y mantente al tanto de todas las novedades:
 
-<div align='left'>
+<div align='center'>
+  <a href="https://instagram.com/phycom_espol" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/1.png" width = 40px/>
+  </a>
 
-<ul>
+  <a href="https://www.facebook.com/PhycomEspol" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/2.png" width = 40px/>
+  </a>
 
-<li>
-<a href="https://www.facebook.com/phycomespol" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%23FF5733.svg?color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <a href="https://x.com/Phycom_Espol" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/3.png" width = 40px/>
+  </a>
 
-<br>
+  <a href="https://www.linkedin.com/company/93796386/admin/feed/posts/" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/4.png" width = 40px/>
+  </a>
 
-<li>
-<a href="https://twitter.com/PHYCOM_ESPOL" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <a href="https://api.whatsapp.com/send?phone=593963636947" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/5.png" width = 40px/>
+  </a>
 
-<br>
+  <a href="https://www.youtube.com/channel/UC_zI_V0cADOuZmmXiSyyTZA" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/6.png" width = 40px/>
+  </a>
 
-<li>
-<a href="https://www.instagram.com/phycom.espol/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <a href="https://tiktok.com/@phycom_espol" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/7.png" width = 40px/>
+  </a>
 
-<br>
-
-</ul>
+  <a href="phycom@espol.edu.ec" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="src/Botones-redes/8.png" width = 40px/>
+  </a>
 </div>
 
-Únete a nosotros en nuestras redes sociales para mantenerte al tanto de las últimas noticias, proyectos y eventos emocionantes en el mundo de la mecatrónica y la informática física. ¡Esperamos verte pronto en PHYCOM! 🤝🤖🔌
+
+Únete a nosotros en nuestras redes sociales para mantenerte al tanto de las últimas noticias, proyectos y eventos emocionantes en el mundo de la electrónica y la informática física. ¡Esperamos verte pronto en PHYCOM! 🤝🤖🔌
