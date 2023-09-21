@@ -1,3 +1,4 @@
+![Banner Phycom](src/Banner_Phycom.png)
 # Club de Physical Computing PHYCOM 👨‍💻🤖
 
 ## ¡Bienvenido a PHYCOM! 🚀
