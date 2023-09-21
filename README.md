@@ -2,7 +2,7 @@
 # Club de Physical Computing PHYCOM 👨‍💻🤖
 
 ## ¡Bienvenido a PHYCOM! 🚀
-<picture> <img align="right" src="src/Phycom_gif.gif" width = 450px></picture>
+<picture> <img align="right" src="src/Phycom_gif.gif" width = 350px></picture>
 ¡Hola! Somos el club de Physical Computing PHYCOM de ESPOL, un grupo apasionado por la electrónica, la programación y la creación de sistemas interactivos. 💡
 
 **Misión:** Nuestra misión en el club de Physical Computing PHYCOM es promover el conocimiento del Physical Computing en la sociedad. Lo hacemos a través de la exploración, desarrollo y construcción de sistemas físicos que combinan de manera creativa e innovadora el software y el hardware para lograr la interacción con el mundo analógico que nos rodea.
